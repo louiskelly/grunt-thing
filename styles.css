@@ -1,0 +1,33 @@
+body{
+	background-image: url('https://img00.deviantart.net/ea26/i/2011/181/4/c/cabin_room_psd_by_manoluv-d3klg5d.jpg');
+}
+
+.wrapper{
+	width: 400px;
+	height: 400px;
+	border-radius: 20px;
+	background-color: #333333;
+	text-align: center;
+	padding: 5px;
+	margin: 0 auto;
+}
+
+.avocado{
+	background-image: url('https://media.giphy.com/media/26tPbLsr9oE72erjG/giphy.gif');
+	width: 350px;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 20px;
+	border-radius: 20px;
+}
+
+.avocado:hover{
+	background-image: url('http://cloud-3.steamusercontent.com/ugc/886504300869836721/6F1F5120069E55AE0F830C0CCA64BF82E045C0EC/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C637%3A358&composite-to=*,*%7C637%3A358&background-color=black');
+}
+
+.antenna{
+	width: 200px;
+	margin: 0 auto;
+	margin-top: 40px;
+	display: block;
+}
